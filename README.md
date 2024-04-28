@@ -55,8 +55,8 @@ endmodule
 
  
 
-Developed by: GANESH PRABHU J
-RegisterNumber: 212223220023
+Developed by: ROSHINI S
+RegisterNumber: 212223230174
 */
 
 **RTL LOGIC UP COUNTER**
