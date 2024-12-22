@@ -1,4 +1,4 @@
-### SYNCHRONOUS-UP-COUNTER
+# EXP-11: SYNCHRONOUS-UP-COUNTER
 
 **AIM:**
 
@@ -40,6 +40,10 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 
 **PROGRAM**
 ```
+Developed by: N>Naghul varshan
+Reference number: 24901302
+```
+```
 module ex11(out,clk,rstn);
 input clk,rstn;
 output reg [3:0]out;
@@ -52,12 +56,6 @@ begin
 end
 endmodule
 ```
-
- 
-
-Developed by: ROSHINI S
-RegisterNumber: 212223230174
-*/
 
 **RTL LOGIC UP COUNTER**
 
